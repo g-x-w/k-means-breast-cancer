@@ -1,4 +1,4 @@
-# K-Means Iiplementation on classic binary classification dataset
+# K-Means Implementation on classic binary classification dataset
 This is a repository for a simple implementation of k-means clustering from scratch, working with the classic and simply binary classification dataset of fine needle aspirates from breast cancer patients. Implemented with an OOP approach in Python 3.9
 
 ## Dataset
